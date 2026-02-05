@@ -13,7 +13,7 @@ import "./globals.css";
 // });
 const PromptRegular = Prompt({
   subsets:["latin"],
-  variable:"--font-prompt-sans-serif",
+  variable:"--font-prompt-regular",
   weight: "300",
   display: "swap"
 });
